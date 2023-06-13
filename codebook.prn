@@ -1,0 +1,51 @@
+        subsetted_mergedtable 's Variable Type            Description
+       1activity names :-                 factor          Activity names (e.g., walking, sitting, standing)
+       2subject number :-                 factor          Subject number (participant identifier)
+       3summary of tBodyAcc mean X :-     numeric         Summary of mean value for body acceleration in X direction
+       4summary of tBodyAcc mean Y :-     numeric         Summary of mean value for body acceleration in Y direction
+       5summary of tBodyAcc mean Z :-     numeric         Summary of mean value for body acceleration in Z direction
+       6summary of tBodyAcc std X :-      numeric         Summary of standard deviation for body acceleration in X direction
+       7summary of tBodyAcc std Y :-      numeric         Summary of standard deviation for body acceleration in Y direction
+       8summary of tBodyAcc std Z :-      numeric         Summary of standard deviation for body acceleration in Z direction
+       9summary of tGravityAcc mean X :-  numeric         Summary of mean value for gravity acceleration in X direction
+      10summary of tGravityAcc mean Y :-  numeric         Summary of mean value for gravity acceleration in Y direction
+      11summary of tGravityAcc mean Z :-  numeric         Summary of mean value for gravity acceleration in Z direction
+      12summary of tGravityAcc std X :-   numeric         Summary of standard deviation for gravity acceleration in X direction
+      13summary of tGravityAcc std Y :-   numeric         Summary of standard deviation for gravity acceleration in Y direction
+      14summary of tGravityAcc std Z :-   numeric         Summary of standard deviation for gravity acceleration in Z direction
+      15summary of tBodyAccJerk mean X :- numeric         Summary of mean value for body acceleration jerk in X direction
+      16summary of tBodyAccJerk mean Y :- numeric         Summary of mean value for body acceleration jerk in Y direction
+      17summary of tBodyAccJerk mean Z :- numeric         Summary of mean value for body acceleration jerk in Z direction
+      18summary of tBodyAccJerk std X :-  numeric         Summary of standard deviation for body acceleration jerk in X direction
+      19summary of tBodyAccJerk std Y :-  numeric         Summary of standard deviation for body acceleration jerk in Y direction
+      20summary of tBodyAccJerk std Z :-  numeric         Summary of standard deviation for body acceleration jerk in Z direction
+      21summary of tBodyGyro mean X :-    numeric         Summary of mean value for body gyroscopic rotation in X direction
+      22summary of tBodyGyro mean Y :-    numeric         Summary of mean value for body gyroscopic rotation in Y direction
+      23summary of tBodyGyro mean Z :-    numeric         Summary of mean value for body gyroscopic rotation in Z direction
+      24summary of tBodyGyro std X :-     numeric         Summary of standard deviation for body gyroscopic rotation in X direction
+      25summary of tBodyGyro std Y :-     numeric         Summary of standard deviation for body gyroscopic rotation in Y direction
+      26summary of tBodyGyro std Z :-     numeric         Summary of standard deviation for body gyroscopic rotation in Z direction
+      27summary of tBodyGyroJerk mean X :-numeric         Summary of mean value for body gyroscopic jerk in X direction
+      28summary of tBodyGyroJerk mean Y :-numeric         Summary of mean value for body gyroscopic jerk in Y direction
+      29summary of tBodyGyroJerk mean Z :-numeric         Summary of mean value for body gyroscopic jerk in Z direction
+      30summary of tBodyGyroJerk std X :- numeric         Summary of standard deviation for body gyroscopic jerk in X direction
+      31summary of tBodyGyroJerk std Y :- numeric         Summary of standard deviation for body gyroscopic jerk in Y direction
+      32summary of tBodyGyroJerk std Z :- numeric         Summary of standard deviation for body gyroscopic jerk in Z direction
+      33summary of fBodyAcc mean X :-     numeric         Summary of mean value for body acceleration frequency components in X direction
+      34summary of fBodyAcc mean Y :-     numeric         Summary of mean value for body acceleration frequency components in Y direction
+      35summary of fBodyAcc mean Z :-     numeric         Summary of mean value for body acceleration frequency components in Z direction
+      36summary of fBodyAcc std X :-      numeric         Summary of standard deviation for body acceleration frequency components in X direction
+      37summary of fBodyAcc std Y :-      numeric         Summary of standard deviation for body acceleration frequency components in Y direction
+      38summary of fBodyAcc std Z :-      numeric         Summary of standard deviation for body acceleration frequency components in Z direction
+      39summary of fBodyAccJerk mean X :- numeric         Summary of mean value for body acceleration jerk frequency components in X direction
+      40summary of fBodyAccJerk mean Y :- numeric         Summary of mean value for body acceleration jerk frequency components in Y direction
+      41summary of fBodyAccJerk mean Z :- numeric         Summary of mean value for body acceleration jerk frequency components in Z direction
+      42summary of fBodyAccJerk std X :-  numeric         Summary of standard deviation for body acceleration jerk frequency components in X direction
+      43summary of fBodyAccJerk std Y :-  numeric         Summary of standard deviation for body acceleration jerk frequency components in Y direction
+      44summary of fBodyAccJerk std Z :-  numeric         Summary of standard deviation for body acceleration jerk frequency components in Z direction
+      45summary of fBodyGyro mean X :-    numeric         Summary of mean value for body gyroscopic rotation frequency components in X direction
+      46summary of fBodyGyro mean Y :-    numeric         Summary of mean value for body gyroscopic rotation frequency components in Y direction
+      47summary of fBodyGyro mean Z :-    numeric         Summary of mean value for body gyroscopic rotation frequency components in Z direction
+      48summary of fBodyGyro std X :-     numeric         Summary of standard deviation for body gyroscopic rotation frequency components in X direction
+      49summary of fBodyGyro std Y :-     numeric         Summary of standard deviation for body gyroscopic rotation frequency components in Y direction
+      50summary of fBodyGyro std Z :-     numeric         Summary of standard deviation for body gyroscopic rotation frequency components in Z direction
